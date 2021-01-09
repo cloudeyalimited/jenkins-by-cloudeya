@@ -8,7 +8,7 @@ Phooni certified images are always up-to-date, secure, and built to work right o
 
 ## Features
 
-LAMP Stack by Phooni is pre-configured with the following technologies:
+Jenkins by Phooni is pre-configured with the following technologies:
 
 1. **Jenkins**: organizations can accelerate the software development process by automating it. [Jenkins](https://www.jenkins.io/) manages and controls software delivery processes throughout the entire lifecycle, including build, document, test, package, stage, deployment, static code analysis and much more.
 
