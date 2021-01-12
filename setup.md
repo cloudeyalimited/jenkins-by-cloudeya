@@ -37,9 +37,10 @@ To SSH into your EC2 instance:
 
 ## Unlock Jenkins
 
-Jenkins creates an administration password during the initial setup process. You can retrieve by typing this command in your terminal
+You can access your Jenkins setup in the browsers ```ip-address:8080``` to continue with the setup. Jenkins creates a one-time administration password during the initial setup process. You can retrieve by typing this command in your terminal
 
 1. ```cat /var/lib/jenkins/secrets/initialAdminPassword``` to reveal your administrator password
+2. Setup an administrator profile
 
 ## Links
 
