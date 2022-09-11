@@ -3,6 +3,10 @@ Jenkins by Moat Systems
 
 This file is used to list changes made in each version.
 
+0.0.1-r06 – 11/09/2022
+-----
+- [Finbarrs Oketunji](https://finbarrs.eu) - Upgrade to Jenkins v2.361.1
+
 0.0.1-r05 – 24/04/2022
 -----
 - [Finbarrs Oketunji](https://finbarrs.eu) - Now Supports Ubuntu 22.04
