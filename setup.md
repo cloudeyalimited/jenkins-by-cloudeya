@@ -33,7 +33,7 @@ To SSH into your EC2 instance:
 1. ```cd``` to the location of your .pem key
 2. Run ```chmod 600 mykey.pem``` to lock down your SSH key
 3. Run ```ssh -i /path/my-key-pair.pem ubuntu@<your ip address>```
-4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](https://www.moatsystems.com/contact/).
+4. Bam!!! Have fun. Don't break anything, but if you do. Support is available [here](mailto:tech@cloudeya.org).
 
 ## Unlock Jenkins
 
@@ -45,9 +45,9 @@ You can access your Jenkins setup in the browsers ```ip-address:8080``` to conti
 ## Links
 
 1. [Product Page](https://aws.amazon.com/marketplace/pp/prodview-wrohhklhyyfdw)
-2. [EULA](MoatSystemsEULA.txt)
-3. [Knowledgebase](https://github.com/moatsystems/lamp-stack-by-moatsystems/-/wikis/home)
-4. [Issue Tracking](https://github.com/moatsystems/lamp-stack-by-moatsystems/-/issues)
+2. [EULA](CloudeyaLimitedEULA.txt)
+3. [Knowledgebase](https://github.com/cloudeyalimited/lamp-stack-by-cloudeya/-/wikis/home)
+4. [Issue Tracking](https://github.com/cloudeyalimited/lamp-stack-by-cloudeya/-/issues)
 5. [Changelog](changelog.md)
 
 ## Support

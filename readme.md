@@ -1,6 +1,6 @@
 # Jenkins by Cloudeya
 
-Jenkins is an open source automation server that helps you automate the building, testing, and deployment of any project across multiple platforms. Jenkins helps to avoid breaking changes so that you can save time and ensure the delivery of high-quality software. Its web interface provides an easy way to manage and test your applications before taking them to production. This image bundles the latest versions of community-recommended plugins, including pipelines and Git integration. This open source solution is packaged by Cloudeya. Learn how to install, configure, and manage it. For deployment issues, reach out our support team [here](https://moatsystems.com/contact).
+Jenkins is an open source automation server that helps you automate the building, testing, and deployment of any project across multiple platforms. Jenkins helps to avoid breaking changes so that you can save time and ensure the delivery of high-quality software. Its web interface provides an easy way to manage and test your applications before taking them to production. This image bundles the latest versions of community-recommended plugins, including pipelines and Git integration. This open source solution is packaged by Cloudeya. Learn how to install, configure, and manage it. For deployment issues, reach out our support team [here](mailto:tech@cloudeya.org).
 
 Why use Cloudeya Certified Apps?
 
@@ -19,14 +19,14 @@ For setup instructions, click [here](setup.md).
 ## Links
 
 1. [Product Page](https://aws.amazon.com/marketplace/pp/prodview-wrohhklhyyfdw)
-2. [EULA](MoatSystemsEULA.txt)
-3. [Knowledgebase](https://github.com/moatsystems/jenkins-by-moatsystems/-/wikis/home)
-4. [Issue Tracking](https://github.com/moatsystems/jenkins-by-moatsystems/-/issues)
+2. [EULA](CloudeyaLimitedEULA.txt)
+3. [Knowledgebase](https://github.com/cloudeyalimited/jenkins-by-cloudeya/-/wikis/home)
+4. [Issue Tracking](https://github.com/cloudeyalimited/jenkins-by-cloudeya/-/issues)
 5. [Changelog](changelog.md)
 
 ## Support
 
-[Email](mailto:hi@moatsystems.com) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate the LAMP Stack at any time.
+[Email](mailto:tech@cloudeya.org) support is available to Amazon Web Services Marketplace Customers. We do not offer refunds, but you may terminate the LAMP Stack at any time.
 
 ## Troubleshooting
 
