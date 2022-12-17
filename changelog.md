@@ -1,5 +1,5 @@
-Jenkins by Moat Systems
-=======================
+Jenkins by Cloudeya Limited
+===========================
 
 This file is used to list changes made in each version.
 
