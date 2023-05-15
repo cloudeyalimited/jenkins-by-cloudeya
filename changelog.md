@@ -3,6 +3,10 @@ Jenkins by Cloudeya Limited
 
 This file is used to list changes made in each version.
 
+0.0.1-r07 – 15/05/2023
+-----
+- [Finbarrs Oketunji](https://finbarrs.eu) - Upgrade to Jenkins v2.387.3
+
 0.0.1-r06 – 11/09/2022
 -----
 - [Finbarrs Oketunji](https://finbarrs.eu) - Upgrade to Jenkins v2.361.1
