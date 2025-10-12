@@ -3,6 +3,10 @@ Jenkins by Cloudeya Limited
 
 This file is used to list changes made in each version.
 
+0.0.1-r12 – 12/10/2025
+-----
+- [Finbarrs Oketunji](https://finbarrs.eu) - Upgrade to Jenkins 2.516.3 LTS on Amazon Linux 2023 (Amazon EBS Volumes gp3 support)
+
 0.0.1-r11 – 26/05/2025
 -----
 - [Finbarrs Oketunji](https://finbarrs.eu) - Upgrade to Jenkins 2.504.1 LTS on Ubuntu 24.04 (Amazon EBS Volumes gp3 support)
